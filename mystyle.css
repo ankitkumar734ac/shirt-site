@@ -1,0 +1,44 @@
+img{
+	height: 115px;
+	
+}
+ul li{
+	list-style: none;
+}
+
+.di{
+	cursor: pointer;
+	 text-decoration: none;
+	padding-left:10px ;
+	display: flex;
+	height: 120px;
+	width: 400px;
+	border: 1px solid black;
+}
+.dis{
+	height: 118px;
+	width: 100px;
+}
+.did{
+	padding-top: 6px;
+	height: 118px;
+	width: 300px;
+	
+}
+.showShirt{
+	height: 600px;
+	width: 500px;
+	
+}
+.imgShow{
+	padding-top: 50px;
+	height: 350px;
+	width: 250px;
+}
+.error{
+	color: red;
+}
+
+.cl{
+	background-color: #0069D9;
+}
